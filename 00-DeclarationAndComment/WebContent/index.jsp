@@ -1,6 +1,6 @@
 <html>
 <body>
-<!-- It is a comment which will go with resonse -->
+<!-- It is a comment which will go with response -->
 <%-- This will stay here --%>
 <!--To test declaration element  -->
 <%out.println("Testing declaration element"); %><br>
